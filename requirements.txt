@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+jinja2
+scikit-learn
+pandas
+numpy
+kagglehub
+python-multipart
